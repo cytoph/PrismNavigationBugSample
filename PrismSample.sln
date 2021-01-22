@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismSample", "PrismSample\PrismSample\PrismSample.csproj", "{4DB547DD-C1C7-4D74-AF61-CBB79EBA5C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismSample.Android", "PrismSample\PrismSample.Android\PrismSample.Android.csproj", "{8A489D01-5164-41DE-9C52-C519E98F468F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB547DD-C1C7-4D74-AF61-CBB79EBA5C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB547DD-C1C7-4D74-AF61-CBB79EBA5C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB547DD-C1C7-4D74-AF61-CBB79EBA5C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB547DD-C1C7-4D74-AF61-CBB79EBA5C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A489D01-5164-41DE-9C52-C519E98F468F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FF40CC-A1FC-44CA-970C-77FAD2B97CA2}
+	EndGlobalSection
+EndGlobal
